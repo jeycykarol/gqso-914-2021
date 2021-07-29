@@ -1,5 +1,5 @@
 # Calculadora API (GQSO - 914)
 
-Software alvo da disciplina de Gestão e Qualidade de Software.
+<font color = blue> API </font> de calculadora da disciplina de <i> Gestão e Qualidade de Software. </i> 
 
-TODO(jeycykarol): preencher descrição das funcionalidades do projeto;
+<i><b> Em construção...</b></i>
